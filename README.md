@@ -1,5 +1,6 @@
 # MargDarshak.AI
 
+![web](https://github.com/user-attachments/assets/889e7081-e08e-430e-8c2f-b6ef5738d47f)
 
 
 MargDarshak.AI is an AI-powered personalized learning assistant that helps students choose the right courses, skills, and projects based on their career goals. It provides AI-driven study plans, resume-building tools, and career guidance to enhance the learning experience.
