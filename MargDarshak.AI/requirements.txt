@@ -1,0 +1,19 @@
+google-generativeai
+streamlit
+streamlit-authenticator
+googlesearch-python==1.2.3
+python-dotenv
+streamlit_lottie==0.0.5
+openpyxl
+pymongo[srv]==4.6.1  # Combined pymongo and pymongo[srv]
+fitz
+plotly
+pandas
+pyPDF2
+faiss-cpu
+sentence-transformers
+setuptools
+pyttsx3
+SpeechRecognition
+pipwin
+pyaudio

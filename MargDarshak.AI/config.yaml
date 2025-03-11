@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: abcd
+  name: Margdarshak.AI
+credentials:
+  usernames:
+    anubhavyadav:
+      email: anu@gmail.com
+      name: Anubhav Yadav
+      password: $2b$12$2AsoxRAis1BG6cvM0FP5nediNuypzqvCrCJnr5zc.r.GW5L.qsdzS
+      preferred_lang: English
+    demo:
+      email: shobhitadhya@xyz
+      logged_in: false
+      name: demotest
+      password: $2b$12$tdAviStgh665fxJxr79ERO6HuwU1P28CmrNMcW.e38G3.weX.aili
+      preferred_lang: English
+    jaggu12:
+      email: jaggu@gmail.com
+      name: Jagannath Nayak
+      password: $2b$12$5yV72crKnN4nJNTr3HiN..hvRBlzXgh4qooT6qpTXohISpDnUdAcK
+      preferred_lang: English
